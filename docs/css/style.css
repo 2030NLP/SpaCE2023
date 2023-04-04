@@ -1,0 +1,222 @@
+
+
+.table-wrap > table {
+  /* max-width: 200%; */
+  font-size: small;
+}
+
+
+@media print {
+  .container {
+    max-width: 96%;
+  }
+  .main {
+    max-width: 100% !important;
+  }
+  pre code.hljs {
+    word-wrap: break-word;
+    word-break: break-all;
+    white-space: pre-wrap;
+  }
+}
+
+pre code.hljs {
+  padding: 0.5em 1em;
+  word-wrap: break-word;
+  word-break: break-all;
+  white-space: pre-wrap;
+}
+
+
+p, ul, ol, dl {
+  margin-top: 0.75rem;
+  margin-bottom: 0.75rem;
+}
+ol ol, ol ul, ul ol, ul ul {
+  margin-top: 0.25rem;
+  margin-bottom: 0.25rem;
+}
+
+/* body {
+  background: #eaebee;
+  background: #fafafa;
+} */
+img {
+  display: inline-block;
+  max-width: 100%;
+}
+.container {
+  transition: max-width 0.2s, width 0.2s;
+}
+th[align=right] {
+  text-align: right;
+}
+th[align=left] {
+  text-align: left;
+}
+th[align=center] {
+  text-align: center;
+}
+
+del {
+  opacity: 0.5;
+}
+
+:root {
+  --pku-red: #b00f15;
+  --notice-red: rgba(212, 76, 71, 1);
+}
+
+.nav {
+  --bs-nav-link-padding-x: 1rem;
+  --bs-nav-link-padding-y: 0.5rem;
+  --bs-nav-link-font-weight: ;
+  --bs-nav-link-color: var(--pku-red);
+  --bs-nav-link-hover-color: var(--pku-red);
+  --bs-nav-link-disabled-color: #6c757d;
+  list-style: none;
+}
+.nav-pills {
+  --bs-nav-pills-border-radius: 0.375rem;
+  --bs-nav-pills-link-active-color: #fff;
+  --bs-nav-pills-link-active-bg: var(--pku-red);
+}
+.nav-tabs {
+  --bs-nav-tabs-border-width: 1px;
+  --bs-nav-tabs-border-color: #dee2e6;
+  --bs-nav-tabs-border-radius: 0.375rem;
+  --bs-nav-tabs-link-hover-border-color: #e9ecef #e9ecef #dee2e6;
+  --bs-nav-tabs-link-active-color: #495057;
+  --bs-nav-tabs-link-active-bg: #fff;
+  --bs-nav-tabs-link-active-border-color: #dee2e6 #dee2e6 #fff;
+  border-bottom: var(--bs-nav-tabs-border-width) solid var(--bs-nav-tabs-border-color);
+}
+
+.page-cover {
+  position: fixed;
+  top:0; right:0; bottom:0; left:0;
+  overflow: hidden;
+  background: #fff;
+  z-index: 99999;
+}
+
+.main {
+  max-width: 900px;
+  min-height: 100vh;
+  background-color: #fff;
+  background-image: url(../images/feet.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: bottom;
+  /*box-shadow: 0px 4px 16px 0px rgba(0,0,0,0.05);*/
+}
+
+/* .md-wrap {} */
+
+.md-wrap .block-color-red {
+  color: rgba(212, 76, 71, 1);
+  fill: rgba(212, 76, 71, 1);
+}
+
+.md-wrap a {
+  text-decoration: none;
+}
+
+.md-wrap blockquote {
+  padding: 0.5rem 0.75rem;
+  margin-top: 1.25rem;
+  margin-bottom: 1.25rem;
+  background-color: var(--bs-light, var(--bs-gray-100));
+  border-left: var(--bs-border-radius) solid var(--bs-gray-300, var(--bs-gray-300));
+  /*border-top-right-radius: var(--bs-border-radius);*/
+  /*border-bottom-right-radius: var(--bs-border-radius);*/
+  border-radius: var(--bs-border-radius);
+}
+
+.md-wrap blockquote > *:first-child {
+  margin-top: 0.25em;
+}
+
+.md-wrap blockquote > *:last-child {
+  margin-bottom: 0.25em;
+}
+
+.md-wrap p code,
+.md-wrap ul code,
+.md-wrap ol code,
+.md-wrap dl code {
+  padding: .2em .4em;
+  margin: 0;
+  font-size: 85%;
+  background-color: var(--bs-light);
+  border-radius: 6px;
+  color: #032f62;
+}
+
+.md-wrap .hljs {
+  color: #444;
+  background: var(--bs-light);
+  border-radius: var(--bs-border-radius);
+}
+
+/*.md-wrap pre {
+  border-radius: 0.375rem;
+}*/
+
+.md-wrap .table-wrap {
+  overflow: auto;
+}
+
+.md-wrap .h1,
+.md-wrap h1,
+.md-wrap .h2,
+.md-wrap h2,
+.md-wrap .h3,
+.md-wrap h3 {
+  text-align: center;
+}
+
+.md-wrap .h1,
+.md-wrap h1 {
+  margin-top: 2.5rem;
+  margin-bottom: 1.75rem;
+  font-weight: bold;
+}
+
+.md-wrap .h2,
+.md-wrap h2 {
+  margin-top: 2.25rem;
+  margin-bottom: 1.25rem;
+  font-weight: bold;
+}
+
+.md-wrap .h3,
+.md-wrap h3 {
+  margin-top: 1.75rem;
+  margin-bottom: .75rem;
+  font-weight: bold;
+}
+
+.md-wrap .h4,
+.md-wrap h4 {
+  margin-top: 1.5rem;
+  margin-bottom: .5rem;
+  font-weight: bold;
+}
+
+.md-wrap .h5,
+.md-wrap h5 {
+  margin-top: 1rem;
+  margin-bottom: .5rem;
+  font-weight: bold;
+}
+
+.md-wrap .h6,
+.md-wrap h6 {
+  margin-top: .5rem;
+  margin-bottom: .5rem;
+  font-weight: bold;
+}
+
+
+
