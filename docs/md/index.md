@@ -400,9 +400,7 @@ Z = (X - X̄) / s
 
 ### 5.  <span id="register">报名方式<span>
 
-请仔细阅读《第二届中文空间语义理解评测 SpaCE2022 参赛协议》和《第二届中文空间语义理解评测 SpaCE2022 数据集使用许可》，
-
-然后点击进入 [报名链接](https://docs.qq.com/form/page/DSWpjbFlsdU5wYXdt) 进行报名。
+请仔细阅读附录《第三届中文空间语义理解评测（SpaCE2023）参赛协议》和《第三届中文空间语义理解评测（SpaCE2023）数据集使用许可》，然后点击进入 [报名链接](https://docs.qq.com/form/page/DSWpjbFlsdU5wYXdt) 进行报名。
 
 
 ### 6.  <span id="award">奖项设置<span>
