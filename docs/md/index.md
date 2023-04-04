@@ -407,7 +407,10 @@ Z = (X - X̄) / s
 
 ### 6.  <span id="award">奖项设置<span>
 
-本任务不设置奖项。
+本任务不设置奖项。由中国中文信息学会提供荣誉证书。
 
 ### 7.  <span id="appendix">附录<span>
+
+- <a href="https://github.com/2030NLP/SpaCE2023/blob/main/agreements/Agreement.md" target="_blank">第三届中文空间语义理解评测（SpaCE2023）参赛协议</a>
+- <a href="https://github.com/2030NLP/SpaCE2023/blob/main/agreements/LICENSE.md" target="_blank">第三届中文空间空间语义理解评测（SpaCE2023）数据集使用许可</a>
 
