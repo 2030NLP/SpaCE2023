@@ -247,7 +247,7 @@ const RootComponent = {
         // console.log(wrap);
         localData.mdContent = mkd.parse(wrap);
         await updateHLJS();
-        document.title = `SpaCE2022 | ${pages[localData.pageName].title}`;
+        document.title = `SpaCE2023 | ${pages[localData.pageName].title}`;
       } catch (error) {
         throw error;
         return;
