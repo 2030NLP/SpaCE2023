@@ -413,8 +413,9 @@ Z = (X - X̄) / s
 
 ### 5.  <span id="register">报名方式<span>
 
-请仔细阅读附录《第三届中文空间语义理解评测（SpaCE2023）参赛协议》和《第三届中文空间语义理解评测（SpaCE2023）数据集使用许可》，然后点击进入 [报名链接](https://docs.qq.com/form/page/DSWpjbFlsdU5wYXdt) 进行报名。
+请仔细阅读附录《第三届中文空间语义理解评测（SpaCE2023）参赛协议》和《第三届中文空间语义理解评测（SpaCE2023）数据集使用许可》，然后点击进入 [报名链接](https://docs.qq.com/form/page/DSWpjbFlsdU5wYXdt) 或者扫描下方二维码进行报名。
 
+![](https://github.com/2030NLP/SpaCE2023/blob/main/docs/images/QRcode.png)
 
 ### 6.  <span id="award">奖项设置<span>
 
