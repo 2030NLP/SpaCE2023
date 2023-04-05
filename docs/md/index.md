@@ -416,5 +416,5 @@ Z = (X - X̄) / s
 ### 7.  <span id="appendix">附录<span>
 
 - <a href="https://github.com/2030NLP/SpaCE2023/blob/main/agreements/Agreement.md" target="_blank">第三届中文空间语义理解评测（SpaCE2023）参赛协议</a>
-- <a href="https://github.com/2030NLP/SpaCE2023/blob/main/agreements/LICENSE.md" target="_blank">第三届中文空间空间语义理解评测（SpaCE2023）数据集使用许可</a>
+- <a href="https://github.com/2030NLP/SpaCE2023/blob/main/agreements/LICENSE.md" target="_blank">第三届中文空间语义理解评测（SpaCE2023）数据集使用许可</a>
 
