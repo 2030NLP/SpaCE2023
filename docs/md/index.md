@@ -51,9 +51,8 @@ SpaCE2023 与 SpaCE2022 相比，有如下变化：
 - 保留了异常文本识别任务，以及空间语义角色标注任务，并改进了数据格式，更新了测试集，提高了标注质量；
 - 新增了生成类任务，要求机器判断两段在语言表达形式上有差异的文本是否可以描述相同的空间场景，并说明判断理由。
 
-> 
-> <br/>
-> 注：第一届中文空间语义理解评测（SpaCE2021）的相关资源可访问以下链接获取：
+
+> <br/>注：第一届中文空间语义理解评测（SpaCE2021）的相关资源可访问以下链接获取：
 > - Github 仓库： https://github.com/2030NLP/SpaCE2021
 > - 评测网站： http://ccl.pku.edu.cn:8084/SpaCE2021/
 > 
@@ -61,7 +60,6 @@ SpaCE2023 与 SpaCE2022 相比，有如下变化：
 > - Github 仓库： https://github.com/2030NLP/SpaCE2022
 > - 评测网站： https://2030nlp.github.io/SpaCE2022/
 > <br/>
-
 
 
 ### <center>2.  <span id="data">评测数据</span></center>
