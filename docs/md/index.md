@@ -446,7 +446,7 @@ Z = (X - X̄) / s
 
 请仔细阅读附录《第三届中文空间语义理解评测（SpaCE2023）参赛协议》和《第三届中文空间语义理解评测（SpaCE2023）数据集使用许可》，然后点击进入 [报名链接](https://docs.qq.com/form/page/DSWpjbFlsdU5wYXdt) 或者扫描下方二维码进行报名。
 
-![](./images/QRcode.png)
+<div align="center"><img src="./images/QRcode.png" width = "300"/></div>
 
 ### 6.  <span id="award">奖项设置<span>
 
