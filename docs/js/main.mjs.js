@@ -1,5 +1,5 @@
 
-// https://2030nlp.github.io/SpaCE2022/
+// https://2030nlp.github.io/SpaCE2023/
 
 // 基本信息 变量
 const APP_NAME = "SpaCE2023";
@@ -12,12 +12,6 @@ if (DEVELOPING) {
 } else {
   console.log("PRODUCTION");
 };
-// const DEVELOPING_LOCAL = 0;
-// const API_BASE_DEV_LOCAL = "http://127.0.0.1:5000";
-// const DEV_HOSTS = ["http://192.168.124.5:8888", "http://192.168.1.100:8888", "http://10.1.108.200:8888/", "http://10.0.55.176:8888/", "http://10.1.124.56:8888/"];
-// const API_BASE_DEV = DEV_HOSTS[0];
-// const API_BASE_PROD = "https://sp22.nlpsun.cn";
-// const API_BASE = DEVELOPING ? API_BASE_DEV : API_BASE_PROD;
 
 // 引入依赖的模块
 
@@ -323,7 +317,7 @@ const RootComponent = {
       </div>
 
       <footer class=" text-center --rounded overflow-hidden py-5 text-light" style="border: 1px var(--pku-red) solid; background:var(--pku-red);">
-        <p class="small fw-bold"><a class="text-decoration-none text-light" href="https://2030nlp.github.io/SpaCE2023">第三届中文空间语义理解评测  SpaCE2022</a></p>
+        <p class="small fw-bold"><a class="text-decoration-none text-light" href="https://2030nlp.github.io/SpaCE2023">第三届中文空间语义理解评测  SpaCE2023</a></p>
         <!--<p class="small">主办单位： <a class="text-decoration-none text-light" href="https://www.pku.edu.cn" target="_blank">北京大学</a></p>-->
         <p class="small"><a class="text-decoration-none text-light" href="https://chinese.pku.edu.cn/" target="_blank">北京大学中文系</a></p>
         <p class="small"><a class="text-decoration-none text-light" href="http://ccl.pku.edu.cn/" target="_blank">北京大学中国语言学研究中心</a></p>
