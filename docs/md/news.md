@@ -9,6 +9,7 @@
 
 <br/>
 
+- `5月 1日` 子任务1 和 子任务2 的 训练集以及无答案验证集 已在数据仓库发布。
 - `4月 9日` 第二十二届中国计算语言学大会（CCL 2023）技术评测任务发布 <a href="http://cips-cl.org/static/CCL2023/cclEval/taskEvaluation/index.html" target="_blank">🔗</a> ，SpaCE2023作为任务4发布。
 - `4月 4日` 第三届中文空间语义理解评测（SpaCE2023）网页 <a href="https://2030nlp.github.io/SpaCE2023" target="_blank">🔗</a> 和数据仓库 <a href="https://github.com/2030NLP/SpaCE2023" target="_blank">🔗</a> 上线。
 
