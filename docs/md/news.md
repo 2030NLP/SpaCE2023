@@ -24,4 +24,4 @@
     <!-- - [中文语法纠错评测 CLTC 2022](https://github.com/blcuicall/CCL2022-CGEC) -->
 
 <hr/>
-<p class="text-center">最后更新于<strong>2023年4月9日</strong></p>
+<p class="text-center">最后更新于<strong>2023年5月7日</strong></p>
