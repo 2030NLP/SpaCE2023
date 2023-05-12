@@ -49,7 +49,7 @@ def main(params):
 
             for prediction in y['results']:
                 for golden in x['results']:
-                    if (prediction_level == 'loose'):  # 按文本重合度打分（不要求类别相同）
+                    if (prediction_level == 'loose'):  # 按文本重合度打分（不要求角色相同）
                         input_set, target_set = set(), set()
                         for t in prediction:
                             input_set |= set(t['idxes'])
@@ -59,7 +59,7 @@ def main(params):
                         n_inter, n_input, n_target = intersection(input_set, target_set)
                         precision, recall, f1 = f1_score(n_inter, n_input, n_target)
 
-                    elif (prediction_level == 'strict'):  # 按元素重合度打分（要求类别相同）
+                    elif (prediction_level == 'strict'):  # 按角色重合度打分（要求角色相同）
 
                         local_intersection, local_input_len, local_target_len = 0, 0, 0
                         for t1 in prediction:
