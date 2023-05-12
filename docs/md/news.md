@@ -9,6 +9,9 @@
 
 <br/>
 
+- `5月 13日` 关于如何提交结果：请将结果输出为 jsonl 格式（即每行一个 json 对象），以【队伍名称-taskN-dev或test-第N次提交-日期.jsonl】给文件命名，以【队伍名称-验证集/测试集-第N次提交-X月Y日】为邮件标题，将结果文件发送到 lmxiao@stu.pku.edu.cn 。我们每周将会根据提交情况更新1到2次排行榜，仅以更新时您的最后一次提交结果为准。
+- `5月 13日` 子任务1 和 子任务2 的 评分脚本 已在数据仓库发布。
+- `5月 12日` 子任务1 和 子任务2 的 验证集答案 已在数据仓库发布。
 - `5月 7日` 子任务3 的 示例数据 已在数据仓库发布。
 - `5月 1日` 子任务1 和 子任务2 的 训练集以及无答案验证集 已在数据仓库发布。
 - `4月 9日` 第二十二届中国计算语言学大会（CCL 2023）技术评测任务发布 <a href="http://cips-cl.org/static/CCL2023/cclEval/taskEvaluation/index.html" target="_blank">🔗</a> ，SpaCE2023作为任务4发布。
@@ -24,4 +27,4 @@
     <!-- - [中文语法纠错评测 CLTC 2022](https://github.com/blcuicall/CCL2022-CGEC) -->
 
 <hr/>
-<p class="text-center">最后更新于<strong>2023年5月7日</strong></p>
+<p class="text-center">最后更新于<strong>2023年5月13日</strong></p>
