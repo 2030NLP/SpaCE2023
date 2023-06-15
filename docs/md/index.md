@@ -429,10 +429,6 @@ R = 正确检出字符数 / 参考项总字符数
 <td>judge为true时，直接将差异字符串作为理由，未进行改写，没有对空间场景进行重述。</td>
 </tr>
 <tr>
-<td>3分</td>
-<td>judge为true时，直接将差异字符串作为理由，未进行改写，没有对空间场景进行重述。</td>
-</tr>
-<tr>
 <td rowspan="2">2分</td>
 <td>所作解释与空间义有关，但与差异字符串所在的空间场景无关。</td>
 </tr>
@@ -459,7 +455,7 @@ Z = (X - X̄) / s
 ```
 
 ### 4.  <span id="schedule">评测赛程<span>
-**<center>表2 评测赛事日程</center>**
+**<center>表3 评测赛事日程</center>**
 <table class="table table-bordered">
 <thead>
 <tr>
