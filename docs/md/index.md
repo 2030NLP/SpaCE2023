@@ -8,6 +8,7 @@
 - 组织者：詹卫东，穗志方
 - 工作人员：肖力铭，孙春晖，李楠，邢丹，秦宇航，邓思锐，王诚文，岳朋雪，王希豪，邱晓枫，祝方韦 等
 - 联系方式：[lmxiao@stu.pku.edu.cn]()
+- 项目信息：本课题得到2022年度教育部人文社会科学重点研究基地重大项目“面向机器语言能力评测的综合型语言知识库研究”（项目批准号：22JJD740004）资助
 
 
 > - <a href="#content">任务内容</a>
@@ -520,4 +521,5 @@ Z = (X - X̄) / s
 
 - <a href="https://github.com/2030NLP/SpaCE2023/blob/main/agreements/Agreement.md" target="_blank">第三届中文空间语义理解评测（SpaCE2023）参赛协议</a>
 - <a href="https://github.com/2030NLP/SpaCE2023/blob/main/agreements/LICENSE.md" target="_blank">第三届中文空间语义理解评测（SpaCE2023）数据集使用许可</a>
+
 
